@@ -1,2 +1,3 @@
 # Electrotecnia
-clase de electrotecnia 
+
+clases de electrotecnia 
